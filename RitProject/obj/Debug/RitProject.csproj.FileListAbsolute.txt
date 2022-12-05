@@ -1,0 +1,16 @@
+C:\Users\79139\source\repos\RitProject\RitProject\bin\Debug\RitProject.exe.config
+C:\Users\79139\source\repos\RitProject\RitProject\bin\Debug\RitProject.exe
+C:\Users\79139\source\repos\RitProject\RitProject\bin\Debug\RitProject.pdb
+C:\Users\79139\source\repos\RitProject\RitProject\bin\Debug\GMap.NET.Core.dll
+C:\Users\79139\source\repos\RitProject\RitProject\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\79139\source\repos\RitProject\RitProject\obj\Debug\RitProject.csproj.AssemblyReference.cache
+C:\Users\79139\source\repos\RitProject\RitProject\obj\Debug\RitProject.Form1.resources
+C:\Users\79139\source\repos\RitProject\RitProject\obj\Debug\RitProject.Properties.Resources.resources
+C:\Users\79139\source\repos\RitProject\RitProject\obj\Debug\RitProject.csproj.GenerateResource.cache
+C:\Users\79139\source\repos\RitProject\RitProject\obj\Debug\RitProject.csproj.CoreCompileInputs.cache
+C:\Users\79139\source\repos\RitProject\RitProject\obj\Debug\RitProject.csproj.CopyComplete
+C:\Users\79139\source\repos\RitProject\RitProject\obj\Debug\RitProject.exe
+C:\Users\79139\source\repos\RitProject\RitProject\obj\Debug\RitProject.pdb
+C:\Users\79139\source\repos\RitProject\RitProject\bin\Debug\DatabaseMarkers.mdf
+C:\Users\79139\source\repos\RitProject\RitProject\bin\Debug\DatabaseMarkers_log.ldf
+C:\Users\79139\source\repos\RitProject\RitProject\obj\Debug\RitProject.FormAddMarker.resources
